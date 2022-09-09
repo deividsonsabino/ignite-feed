@@ -1,6 +1,6 @@
 import { Header } from "./components/Header"
 import { Sidebar } from "./components/Sidebar"
-import { Post } from "./Post"
+import { Post } from "./components/Post"
 
 import styles from './App.module.css'
 
@@ -20,10 +20,7 @@ function App() {
             author="Deivid Sabino"
             content="Primeiro Post"
           />
-          <Post
-            author="Deivid Sabino"
-            content="Primeiro Post"
-          />
+
         </main>
       </div>
     </div>
