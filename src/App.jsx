@@ -20,7 +20,10 @@ function App() {
             author="Deivid Sabino"
             content="Primeiro Post"
           />
-
+          <Post
+            author="Deivid Sabino"
+            content="Primeiro Post"
+          />
         </main>
       </div>
     </div>
